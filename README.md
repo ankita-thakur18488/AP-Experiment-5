@@ -9,7 +9,7 @@ They are known as greedy algorithms because even though finding an optimal solut
 1. Every stepwise solution needs to structure a problem towards its best-accepted solution.
 2. It is sufficient if the structuring of the problem could stop in a finite number of greedy steps.
 
-       ![image](https://github.com/user-attachments/assets/636c5bb9-ed10-4b18-9e0c-e958a87ec512)
+![image](https://github.com/user-attachments/assets/636c5bb9-ed10-4b18-9e0c-e958a87ec512)
 
 
 # LeetCode Greedy Problems Tracker
